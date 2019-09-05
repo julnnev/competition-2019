@@ -6,9 +6,11 @@ body{
 h1{
   text-align: center;
 }
+
 footer{
 text-align: center;
 }
+
 .fa {
   padding: 20px;
   font-size: 30px;
@@ -39,6 +41,7 @@ text-align: center;
   text-align: center;
   font-weight: bold;
   font-color: black;
+  text-align: center;
 }
 .homesubtitle{
   text-align: center;
@@ -64,6 +67,17 @@ text-align: center;
   font-style: oblique;
   background-color: orange;
 }
+
+.latesttext{
+  font-family: monospace;
+  font-size: 45px;
+  text-align: center;
+  font-weight: bold;
+  font-style: oblique;
+  background-color: #14961a;
+  color: white;
+}
+
 .abouttitle{
   color: #843c91;
   font-size: 90px;
@@ -79,4 +93,14 @@ text-align: center;
   color: black;
   font-family: georgia;
   font-weight: bolder;
+}
+#carouselstyle{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+  height: 450px;
+}
+.placesheadings{
+  font-size: 30px;
 }
